@@ -23,7 +23,7 @@
 
 ## 规则列表
 
-![规则选择指南](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/guide.png)
+[![规则选择指南](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/guide.png)](https://across-gfw.org)
 
 规则 | 规定代理的网站 | 规定直连的网站 
 --- | ----------- | ------------- 
@@ -59,11 +59,9 @@
 
 ## 一些推荐的网站
 
-[**糖客翻墙网**](https://cutt.ly/hhw1ZTi)	:lollipop:
+[**翻墙功夫网 :100:**](https://across-gfw.org)
 
-我最终选择的节点提供商。稳定、价格适中。节点遍布全球，其中香港节点的速度令人满意。
-
-欢迎大家通过我的邀请链接前去使用。
+这是我所选择的服务器提供商，IPLC专线翻墙、稳定、速度快、价格便宜。欢迎大家使用我的推广链接前去注册。。
 
 **[IP111](http://ip111.cn/)**
 
